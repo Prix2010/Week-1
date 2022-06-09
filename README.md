@@ -7,4 +7,4 @@ The tasks for week one were:
 5. learn Matplotlib.pyplot
 
 The csv files are practice datasets used in the python NoteBooks.
-The learning sources are freeCodeCamp.org,matplotlib.org/stable/index.html,Keith Galli's Youtube Channel.
+The learning sources are freeCodeCamp.org, matplotlib.org/stable/index.html, Keith Galli's Youtube Channel.
